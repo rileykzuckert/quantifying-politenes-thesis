@@ -1,0 +1,183 @@
+phrase,non-clinician_ranking,clinician_ranking,non-clinician_sentiment,clinician_sentiment,,
+"""How can I help you today?""",4.60,4.60,polite,polite,,
+"""What do you need?""",2.14,,m_impolite,,,
+"""Tell me what's going on today.""",3.54,3.40,m_polite,m_polite,,
+"""Tell me about any current or past
+medical problems.""",3.42,3.30,m_polite,m_polite,,
+"""Do you have any previous or ongoing
+medical issues?""",4.14,4.10,polite,polite,,
+"""Can you please tell me about any
+current or past medical problems you
+may have?""",4.43,4.40,polite,polite,,
+"“What does the pain or discomfort in your abdomen feel like?""",4.02,4.20,polite,polite,,
+"""Tell me how the pain in your abdomen feels.""",3.63,3.60,m_polite,m_polite,,
+"“Would you describe the pain in your abdomen as cramping, burning, stabbing, aching, tingling, or squeezing?”",4.35,4.00,polite,m_polite,,
+"""Where more precisely is your
+abdominal pain?",3.75,3.40,m_polite,m_polite,,
+"“Point to where your abdominal pain is
+the worst.”",3.82,,m_polite,,,
+"""Can you describe for me the location of
+your abdominal pain?”",4.40,,polite,,,
+"""Are you taking any prescription
+medications?""",4.08,4.00,polite,m_polite,,
+"""Do you take any prescribed
+medications?""",4.02,4.40,polite,polite,,
+"""Please list any prescribed medications
+you currently take.""",3.89,4.10,m_polite,polite,,
+"""How severe (1-10 scale) is your abdominal pain?”",4.02,,polite,,,
+"""With 1 being barely any pain and 10 being the worst pain you've felt in your life, how would you rank your abdominal pain?""",4.34,,polite,,,
+"""How bad is your abdominal pain?""",3.33,,m_polite,,,
+"""Do you drink alcohol? If so, what do you
+drink and how many drinks per day?""",3.91,3.60,m_polite,m_polite,,
+"""How many alcoholic beverages do you
+consume per day?""",3.42,2.90,m_polite,neutral,,
+"“Tell me about your drinking habits. Not
+too many drinks per day, hopefully?”",2.22,,neutral,,,
+"""What are the events surrounding the start of your abdominal pain?""",3.83,3.90,m_polite,m_polite,,
+"""Are there any events you can share with me that occurred around the same time as the start of your abdominal pain?""",4.26,4.40,polite,polite,,
+"""Did anything else happen when your abdominal pain began?""",3.79,3.70,m_polite,m_polite,,
+"""Any other symptoms or concerns we
+should discuss?""",3.97,3.50,m_polite,m_polite,,
+"“Do you have any other symptoms or
+concerns you'd like to talk about?”",4.43,4.60,polite,polite,,
+"""Medical or not, is there anything else
+you'd like to discuss today?""",4.17,3.80,polite,m_polite,,
+"""Do you now, or have you ever, smoked
+or chewed tobacco?""",4.08,4.10,polite,polite,,
+“Tell me about your smoking habits.”,2.87,2.80,neutral,neutral,,
+"""Do you have a history with tobacco
+products?""",3.91,4.10,m_polite,polite,,
+"""Does anything make the pain in your
+abdomen better or worse?""",4.12,4.20,polite,polite,,
+"""Tell me about what you were doing
+when the pain felt its worst and when it
+was most manageable.""",4.12,,polite,,,
+“Does the pain ever feel better?”,3.35,,m_polite,,,
+"""Does the pain in your abdomen radiate
+someplace else? Where?""",3.90,4.00,m_polite,m_polite,,
+"""When you're feeling the abdominal pain
+does it spread to anywhere else?""",4.28,4.60,polite,polite,,
+"""Is the abdominal pain radiating
+anywhere else?""",3.98,4.20,m_polite,polite,,
+"""Do you have any allergies?""",4.24,4.20,polite,polite,,
+"""No known allergies?""",3.12,,m_polite,,,
+"""Are you allergic to anything?""",3.91,3.80,m_polite,m_polite,,
+"""Are you taking any over-the-counter or
+herbal medications?""",4.13,4.20,polite,polite,,
+"“Are you taking anything over-the
+counter? How about herbal
+medications?”",4.01,4.00,polite,m_polite,,
+"""Do you take over-the-counter or herbal
+medications?""",3.95,4.00,m_polite,m_polite,,
+"""Do you experience chest pain,
+discomfort, or pressure?”",4.03,4.30,polite,polite,,
+"""Are you experiencing any pain or any
+kind of tightness in your chest?""",4.29,4.20,polite,polite,,
+"""How's your chest? Is there any pain or
+discomfort there?""",3.62,3.40,m_polite,m_polite,,
+"""Do you have diarrhea?""",3.23,3.40,m_polite,m_polite,,
+"""Any changes in your stool? Diarrhea?""",3.93,,m_polite,,,
+"“Tell me about you recent bathroom
+habits.”",3.04,,m_polite,,,
+"""Have you had the pain in your abdomen
+before?""",4.07,4.30,polite,polite,,
+"""Has the pain in your abdomen
+happened before?""",4.06,,polite,,,
+"""Would you say that the pain in your
+abdomen has occurred before?""",4.09,3.60,polite,m_polite,,
+"""When did your abdominal pain start?""",4.10,4.30,polite,polite,,
+"""Can you recall when the pain in your
+abdomen started?""",4.30,,polite,,,
+"""When was the onset of the pain?""",3.83,,m_polite,,,
+"""What does your vomit look like?""",3.02,3.30,m_polite,m_polite,,
+"""You mentioned vomiting earlier, what
+was it like?""",3.60,,m_polite,,,
+"""I know this is a strange question, but
+can you please describe your vomit?""",4.02,,polite,,,
+"""Have you been having fevers?""",3.77,4.00,m_polite,m_polite,,
+"“Have you had a fever in the past 24-48
+hours? If so, how high of a fever and for
+how long?”",4.29,4.20,polite,polite,,
+"""Have you been experiencing any fever-
+related symptoms?""",4.19,4.20,polite,polite,,
+"""Have you had any trauma to your
+abdomen?""",3.81,4.10,m_polite,polite,,
+"“In the past, did you have any injuries to
+your abdominal area that have sustained
+a lasting effect?""",4.20,4.00,polite,m_polite,,
+"""Do you have any previous injuries to the
+abdomen that may be an underlying
+cause?""",4.05,,polite,,,
+"""Do you use any recreational drugs? If so, what?""",3.57,3.60,m_polite,m_polite,,
+"""Have you been using any illicit drugs or substances?""",2.86,3.00,neutral,neutral,,
+"“Now I have to ask, and this is important: do you have a history of using any drugs or are you using now? You will not get in trouble, but I need to know just in case it might be influencing what's going on.”",4.11,4.10,polite,polite,,
+"""What treatments have you had for your
+abdominal pain?""",3.90,4.10,m_polite,polite,,
+"""Is there anything that you or a doctor
+have done for your abdominal pain?
+Medications or otherwise?""",4.23,4.10,polite,polite,,
+"""Tell me, have you done anything to try
+and alleviate the abdominal pain at any
+point in time?""",3.43,,m_polite,,,
+"""Any previous medical, surgical or dental
+procedures?""",3.83,3.70,m_polite,m_polite,,
+"""Any significant medical or dental
+procedures I should know about?""",3.84,4.00,m_polite,m_polite,,
+"""Should I note any additional medical,
+surgical, or dental procedures on your
+patient file?""",4.14,4.20,polite,polite,,
+"""Tell me about your diet, what you
+normally eat.""",3.67,3.60,m_polite,m_polite,,
+"""What does your daily diet consist of?""",4.09,4.20,polite,polite,,
+"""Do you eat lots of vegetables and
+fruits? How's your nutrition day to day?""",3.22,3.40,m_polite,m_polite,,
+"""Does the pain in your abdomen come
+and go?""",4.05,4.00,polite,m_polite,,
+"""Is your abdominal pain persistent or
+does it come in waves?""",4.26,4.20,polite,polite,,
+"""Tell me about the presence of the
+abdominal pain.""",3.65,3.30,m_polite,m_polite,,
+"“Any changes in your abdominal pain
+since it began?”",3.98,4.10,m_polite,polite,,
+"""Has the abdominal pain felt the same
+since its onset?""",3.98,4.10,m_polite,polite,,
+"""Have you noticed any changes in the
+degree or type of pain?""",4.29,4.30,polite,polite,,
+"""Do you have any abdominal bloating?""",3.97,4.00,m_polite,m_polite,,
+"""Have you noticed any weight gain or
+stomach bloating?""",3.91,4.20,m_polite,polite,,
+"""Is your stomach feeling bloated?""",3.65,3.90,m_polite,m_polite,,
+“Have you been vomiting anything that looks like blood or coffee grounds?”,3.73,4.10,m_polite,polite,,
+"“This may be an uncomfortable question, but has your vomit matched the descriptions of either being bloody or looking like coffee grounds?”",4.29,4.30,polite,polite,,
+“How's your vomit consistency? Bloody? Or does it resemble coffee grounds?”,3.13,3.10,m_polite,m_polite,,
+"“Have you noticed any bruising, bleeding
+gums, nose bleeds or other sites of
+increased bleeding?”",4.28,4.30,polite,polite,,
+"""Any concerns regarding bleeding of the
+body?""",3.47,3.20,m_polite,m_polite,,
+"""You're not experiencing any out of the
+ordinary bleeding, are you?""",2.72,2.50,neutral,neutral,,
+"""Is the pain in your abdomen superficial
+or deep inside?""",3.52,4.00,m_polite,polite,,
+"""Is your abdominal pain surface level or
+does it go deeper than that?""",4.10,3.00,polite,neutral,,
+"""How deep into your body does your
+abdominal pain feel?""",3.99,3.70,m_polite,m_polite,,
+"""Tell me about the health of your
+grandparents, parents and children.""",3.21,3.20,m_polite,m_polite,,
+"""Is there any history of medical illness or
+disease within your family?""",4.20,4.10,polite,polite,,
+"""Do you know if any members of your
+family have undergone treatment for or
+currently suffer from any illnesses?""",4.16,4.10,polite,polite,,
+"""Have you ever been hospitalized?""",3.98,4.10,m_polite,polite,,
+"""Should your patient medical report
+reflect any previous hospitalizations?""",3.67,3.40,m_polite,m_polite,,
+"""Would I be correct in assuming that you
+have not ever been hospitalized?""",2.79,2.70,neutral,neutral,,
+"""Have you recently traveled? Where did you go?",3.67,4.00,m_polite,m_polite,,
+“Have you been outside of the country in the past few months? Or have you traveled domestically recently?”,4.16,4.20,polite,polite,,
+"“In order to rule out anything that could have been contracted from travel, can you inform me of any recent travels you've taken?”",4.13,3.70,polite,m_polite,,
+"""Are your immunizations up to date?",3.84,4.00,m_polite,m_polite,,
+"""Do you have standard vaccinations?""",3.47,3.40,m_polite,m_polite,,
+"“Just to check if our records are correct, can you please let us know of any recent vaccinations you may have received? If there aren't any that's also fine.”",4.31,4.00,polite,m_polite,,
